@@ -1,0 +1,475 @@
+plant-seedlings-classification\train\Black-grass\0b3e7a7a9.png	0
+plant-seedlings-classification\train\Black-grass\1276dffba.png	0
+plant-seedlings-classification\train\Black-grass\1af1eddd3.png	0
+plant-seedlings-classification\train\Black-grass\26103af9c.png	0
+plant-seedlings-classification\train\Black-grass\31f2766cb.png	0
+plant-seedlings-classification\train\Black-grass\3dc08a0f7.png	0
+plant-seedlings-classification\train\Black-grass\42af989bc.png	0
+plant-seedlings-classification\train\Black-grass\4cd2a07dd.png	0
+plant-seedlings-classification\train\Black-grass\550dfcb36.png	0
+plant-seedlings-classification\train\Black-grass\5e65dbdd7.png	0
+plant-seedlings-classification\train\Black-grass\6b9ebf8cc.png	0
+plant-seedlings-classification\train\Black-grass\77629b9e3.png	0
+plant-seedlings-classification\train\Black-grass\840a7ed59.png	0
+plant-seedlings-classification\train\Black-grass\9052e3e7f.png	0
+plant-seedlings-classification\train\Black-grass\9959fb099.png	0
+plant-seedlings-classification\train\Black-grass\a26cb8017.png	0
+plant-seedlings-classification\train\Black-grass\a8de8a80a.png	0
+plant-seedlings-classification\train\Black-grass\af1b91028.png	0
+plant-seedlings-classification\train\Black-grass\b9dfffe2a.png	0
+plant-seedlings-classification\train\Black-grass\c1a625098.png	0
+plant-seedlings-classification\train\Black-grass\cd8031a0c.png	0
+plant-seedlings-classification\train\Black-grass\d622ca3d2.png	0
+plant-seedlings-classification\train\Black-grass\df2e6e002.png	0
+plant-seedlings-classification\train\Black-grass\ea498dd9c.png	0
+plant-seedlings-classification\train\Black-grass\f0a7c51a2.png	0
+plant-seedlings-classification\train\Black-grass\fab809601.png	0
+plant-seedlings-classification\train\Charlock\08fcc43a7.png	1
+plant-seedlings-classification\train\Charlock\0e51b1876.png	1
+plant-seedlings-classification\train\Charlock\137d1ed87.png	1
+plant-seedlings-classification\train\Charlock\17199b5a7.png	1
+plant-seedlings-classification\train\Charlock\1dfeec485.png	1
+plant-seedlings-classification\train\Charlock\25cab77ab.png	1
+plant-seedlings-classification\train\Charlock\32fc83278.png	1
+plant-seedlings-classification\train\Charlock\3ac96f88f.png	1
+plant-seedlings-classification\train\Charlock\410598462.png	1
+plant-seedlings-classification\train\Charlock\48ca70ed5.png	1
+plant-seedlings-classification\train\Charlock\523c4c9dd.png	1
+plant-seedlings-classification\train\Charlock\5b8301d7f.png	1
+plant-seedlings-classification\train\Charlock\6266112a8.png	1
+plant-seedlings-classification\train\Charlock\67af4b8ca.png	1
+plant-seedlings-classification\train\Charlock\6aae02cb3.png	1
+plant-seedlings-classification\train\Charlock\6fa73fdf6.png	1
+plant-seedlings-classification\train\Charlock\74dc2a5ae.png	1
+plant-seedlings-classification\train\Charlock\7a766307c.png	1
+plant-seedlings-classification\train\Charlock\8194f9c87.png	1
+plant-seedlings-classification\train\Charlock\8705afe70.png	1
+plant-seedlings-classification\train\Charlock\8cc7a03c6.png	1
+plant-seedlings-classification\train\Charlock\921ef57b0.png	1
+plant-seedlings-classification\train\Charlock\9a3903864.png	1
+plant-seedlings-classification\train\Charlock\a1f862ba9.png	1
+plant-seedlings-classification\train\Charlock\a880d32f3.png	1
+plant-seedlings-classification\train\Charlock\ae66022e7.png	1
+plant-seedlings-classification\train\Charlock\b525a32bc.png	1
+plant-seedlings-classification\train\Charlock\bdc8e6025.png	1
+plant-seedlings-classification\train\Charlock\c19bc586d.png	1
+plant-seedlings-classification\train\Charlock\c7ac56c83.png	1
+plant-seedlings-classification\train\Charlock\caa43063c.png	1
+plant-seedlings-classification\train\Charlock\d3228543a.png	1
+plant-seedlings-classification\train\Charlock\d903a2a6d.png	1
+plant-seedlings-classification\train\Charlock\ddf0958d2.png	1
+plant-seedlings-classification\train\Charlock\e28fd1de4.png	1
+plant-seedlings-classification\train\Charlock\ead0df392.png	1
+plant-seedlings-classification\train\Charlock\eeee1a97b.png	1
+plant-seedlings-classification\train\Charlock\f5672ef15.png	1
+plant-seedlings-classification\train\Charlock\fd3e62689.png	1
+plant-seedlings-classification\train\Cleavers\0522ec53b.png	2
+plant-seedlings-classification\train\Cleavers\0b44c3a6c.png	2
+plant-seedlings-classification\train\Cleavers\136d5af0b.png	2
+plant-seedlings-classification\train\Cleavers\1af15c939.png	2
+plant-seedlings-classification\train\Cleavers\1ef8ef4af.png	2
+plant-seedlings-classification\train\Cleavers\2a1d10e06.png	2
+plant-seedlings-classification\train\Cleavers\33c1f167f.png	2
+plant-seedlings-classification\train\Cleavers\398cc8af9.png	2
+plant-seedlings-classification\train\Cleavers\42645d809.png	2
+plant-seedlings-classification\train\Cleavers\495602403.png	2
+plant-seedlings-classification\train\Cleavers\5778852ed.png	2
+plant-seedlings-classification\train\Cleavers\609c74407.png	2
+plant-seedlings-classification\train\Cleavers\6acdb8e68.png	2
+plant-seedlings-classification\train\Cleavers\794b914bf.png	2
+plant-seedlings-classification\train\Cleavers\7e8212b65.png	2
+plant-seedlings-classification\train\Cleavers\863b1dbd4.png	2
+plant-seedlings-classification\train\Cleavers\8c73a6f46.png	2
+plant-seedlings-classification\train\Cleavers\95a10dd51.png	2
+plant-seedlings-classification\train\Cleavers\9e899d1ee.png	2
+plant-seedlings-classification\train\Cleavers\a562c2b14.png	2
+plant-seedlings-classification\train\Cleavers\b15ca8e4a.png	2
+plant-seedlings-classification\train\Cleavers\c0784c573.png	2
+plant-seedlings-classification\train\Cleavers\c5f57467a.png	2
+plant-seedlings-classification\train\Cleavers\cc8f45811.png	2
+plant-seedlings-classification\train\Cleavers\d8597aa6a.png	2
+plant-seedlings-classification\train\Cleavers\df341f2d4.png	2
+plant-seedlings-classification\train\Cleavers\ebe7c4208.png	2
+plant-seedlings-classification\train\Cleavers\f5608b615.png	2
+plant-seedlings-classification\train\Cleavers\feecf1be6.png	2
+plant-seedlings-classification\train\Common Chickweed\02beb950e.png	3
+plant-seedlings-classification\train\Common Chickweed\0573b0ff7.png	3
+plant-seedlings-classification\train\Common Chickweed\08cdaa9ed.png	3
+plant-seedlings-classification\train\Common Chickweed\0a2d20538.png	3
+plant-seedlings-classification\train\Common Chickweed\0f44cf2af.png	3
+plant-seedlings-classification\train\Common Chickweed\1265c4a42.png	3
+plant-seedlings-classification\train\Common Chickweed\1599e5ec9.png	3
+plant-seedlings-classification\train\Common Chickweed\16c5adff0.png	3
+plant-seedlings-classification\train\Common Chickweed\1a5c28e0a.png	3
+plant-seedlings-classification\train\Common Chickweed\1efb03a94.png	3
+plant-seedlings-classification\train\Common Chickweed\22f1fd645.png	3
+plant-seedlings-classification\train\Common Chickweed\28285eb94.png	3
+plant-seedlings-classification\train\Common Chickweed\2d131b7e6.png	3
+plant-seedlings-classification\train\Common Chickweed\301114e3e.png	3
+plant-seedlings-classification\train\Common Chickweed\35f374f74.png	3
+plant-seedlings-classification\train\Common Chickweed\387ad12e8.png	3
+plant-seedlings-classification\train\Common Chickweed\3ee3ef6a3.png	3
+plant-seedlings-classification\train\Common Chickweed\4284d5831.png	3
+plant-seedlings-classification\train\Common Chickweed\4861b377f.png	3
+plant-seedlings-classification\train\Common Chickweed\4d6cbfb1e.png	3
+plant-seedlings-classification\train\Common Chickweed\4e726de0b.png	3
+plant-seedlings-classification\train\Common Chickweed\520224ad0.png	3
+plant-seedlings-classification\train\Common Chickweed\5713630ed.png	3
+plant-seedlings-classification\train\Common Chickweed\5a044c06b.png	3
+plant-seedlings-classification\train\Common Chickweed\5ea01515a.png	3
+plant-seedlings-classification\train\Common Chickweed\61a3a0f94.png	3
+plant-seedlings-classification\train\Common Chickweed\63e5b3269.png	3
+plant-seedlings-classification\train\Common Chickweed\67ea1b535.png	3
+plant-seedlings-classification\train\Common Chickweed\6cc932059.png	3
+plant-seedlings-classification\train\Common Chickweed\7178d1aa1.png	3
+plant-seedlings-classification\train\Common Chickweed\78836bb95.png	3
+plant-seedlings-classification\train\Common Chickweed\7b5ff3a68.png	3
+plant-seedlings-classification\train\Common Chickweed\7ec5a6226.png	3
+plant-seedlings-classification\train\Common Chickweed\841b56a7c.png	3
+plant-seedlings-classification\train\Common Chickweed\88314d63e.png	3
+plant-seedlings-classification\train\Common Chickweed\8b9cc2752.png	3
+plant-seedlings-classification\train\Common Chickweed\9253be20b.png	3
+plant-seedlings-classification\train\Common Chickweed\983aed879.png	3
+plant-seedlings-classification\train\Common Chickweed\9b3f2f7a1.png	3
+plant-seedlings-classification\train\Common Chickweed\a194c0dd6.png	3
+plant-seedlings-classification\train\Common Chickweed\a6d54c45c.png	3
+plant-seedlings-classification\train\Common Chickweed\aa28f442c.png	3
+plant-seedlings-classification\train\Common Chickweed\acca2b10d.png	3
+plant-seedlings-classification\train\Common Chickweed\b176751f4.png	3
+plant-seedlings-classification\train\Common Chickweed\b8e6c7b66.png	3
+plant-seedlings-classification\train\Common Chickweed\bc92f8149.png	3
+plant-seedlings-classification\train\Common Chickweed\bf9f74bd3.png	3
+plant-seedlings-classification\train\Common Chickweed\c2c1a8787.png	3
+plant-seedlings-classification\train\Common Chickweed\c7e585163.png	3
+plant-seedlings-classification\train\Common Chickweed\cb64ce021.png	3
+plant-seedlings-classification\train\Common Chickweed\d021a9611.png	3
+plant-seedlings-classification\train\Common Chickweed\d4a084033.png	3
+plant-seedlings-classification\train\Common Chickweed\d9d1602c7.png	3
+plant-seedlings-classification\train\Common Chickweed\e00df1f35.png	3
+plant-seedlings-classification\train\Common Chickweed\e44eed3d0.png	3
+plant-seedlings-classification\train\Common Chickweed\ea3e13899.png	3
+plant-seedlings-classification\train\Common Chickweed\ee30999d4.png	3
+plant-seedlings-classification\train\Common Chickweed\f1ed58cdb.png	3
+plant-seedlings-classification\train\Common Chickweed\f63b0be0d.png	3
+plant-seedlings-classification\train\Common Chickweed\fcfb8df3d.png	3
+plant-seedlings-classification\train\Common Chickweed\ffc02550b.png	3
+plant-seedlings-classification\train\Common wheat\0df5ee8a2.png	4
+plant-seedlings-classification\train\Common wheat\143774101.png	4
+plant-seedlings-classification\train\Common wheat\1a9a859c9.png	4
+plant-seedlings-classification\train\Common wheat\2c4412af8.png	4
+plant-seedlings-classification\train\Common wheat\39f8f1c54.png	4
+plant-seedlings-classification\train\Common wheat\43795dcec.png	4
+plant-seedlings-classification\train\Common wheat\4fe8caddb.png	4
+plant-seedlings-classification\train\Common wheat\5bc3608c2.png	4
+plant-seedlings-classification\train\Common wheat\6abbc4d24.png	4
+plant-seedlings-classification\train\Common wheat\73eaf7247.png	4
+plant-seedlings-classification\train\Common wheat\7d9f34d96.png	4
+plant-seedlings-classification\train\Common wheat\8d2bb104d.png	4
+plant-seedlings-classification\train\Common wheat\975d39600.png	4
+plant-seedlings-classification\train\Common wheat\9efa077b7.png	4
+plant-seedlings-classification\train\Common wheat\a65244218.png	4
+plant-seedlings-classification\train\Common wheat\ac564c384.png	4
+plant-seedlings-classification\train\Common wheat\b8525b55d.png	4
+plant-seedlings-classification\train\Common wheat\c9115289b.png	4
+plant-seedlings-classification\train\Common wheat\d0237f972.png	4
+plant-seedlings-classification\train\Common wheat\dd79d08bb.png	4
+plant-seedlings-classification\train\Common wheat\ee3810dd9.png	4
+plant-seedlings-classification\train\Common wheat\fc95f5ed2.png	4
+plant-seedlings-classification\train\Fat Hen\02a67d111.png	5
+plant-seedlings-classification\train\Fat Hen\0a1480ed8.png	5
+plant-seedlings-classification\train\Fat Hen\1012b652c.png	5
+plant-seedlings-classification\train\Fat Hen\149dbba5f.png	5
+plant-seedlings-classification\train\Fat Hen\193f4c946.png	5
+plant-seedlings-classification\train\Fat Hen\1e9c7a82f.png	5
+plant-seedlings-classification\train\Fat Hen\23525c578.png	5
+plant-seedlings-classification\train\Fat Hen\28fad5a34.png	5
+plant-seedlings-classification\train\Fat Hen\2dea1d8a6.png	5
+plant-seedlings-classification\train\Fat Hen\34eb21afb.png	5
+plant-seedlings-classification\train\Fat Hen\3b244dc9d.png	5
+plant-seedlings-classification\train\Fat Hen\3fe21a3d4.png	5
+plant-seedlings-classification\train\Fat Hen\44db98326.png	5
+plant-seedlings-classification\train\Fat Hen\4c835827d.png	5
+plant-seedlings-classification\train\Fat Hen\5298e390e.png	5
+plant-seedlings-classification\train\Fat Hen\56ee7f90f.png	5
+plant-seedlings-classification\train\Fat Hen\5c3a4a6ed.png	5
+plant-seedlings-classification\train\Fat Hen\5f5015641.png	5
+plant-seedlings-classification\train\Fat Hen\64034603a.png	5
+plant-seedlings-classification\train\Fat Hen\6ac7f6411.png	5
+plant-seedlings-classification\train\Fat Hen\6f7c00476.png	5
+plant-seedlings-classification\train\Fat Hen\765502bd2.png	5
+plant-seedlings-classification\train\Fat Hen\7ce630c2a.png	5
+plant-seedlings-classification\train\Fat Hen\840018e57.png	5
+plant-seedlings-classification\train\Fat Hen\88e4077c5.png	5
+plant-seedlings-classification\train\Fat Hen\9064640e8.png	5
+plant-seedlings-classification\train\Fat Hen\94ff7314b.png	5
+plant-seedlings-classification\train\Fat Hen\9d25b73be.png	5
+plant-seedlings-classification\train\Fat Hen\a1971cff3.png	5
+plant-seedlings-classification\train\Fat Hen\a74864d83.png	5
+plant-seedlings-classification\train\Fat Hen\ac50d45a7.png	5
+plant-seedlings-classification\train\Fat Hen\b3e1dda94.png	5
+plant-seedlings-classification\train\Fat Hen\ba5c8f87f.png	5
+plant-seedlings-classification\train\Fat Hen\bd70765e4.png	5
+plant-seedlings-classification\train\Fat Hen\bfdeafadd.png	5
+plant-seedlings-classification\train\Fat Hen\c3aa41593.png	5
+plant-seedlings-classification\train\Fat Hen\c8ce795f0.png	5
+plant-seedlings-classification\train\Fat Hen\cc40c32ed.png	5
+plant-seedlings-classification\train\Fat Hen\d0c3b7610.png	5
+plant-seedlings-classification\train\Fat Hen\d47349f62.png	5
+plant-seedlings-classification\train\Fat Hen\dbb008ffc.png	5
+plant-seedlings-classification\train\Fat Hen\e27bb5522.png	5
+plant-seedlings-classification\train\Fat Hen\e7d278e0e.png	5
+plant-seedlings-classification\train\Fat Hen\ea7e6ec7f.png	5
+plant-seedlings-classification\train\Fat Hen\f0923dcd6.png	5
+plant-seedlings-classification\train\Fat Hen\f36b25868.png	5
+plant-seedlings-classification\train\Fat Hen\fdc1eedc6.png	5
+plant-seedlings-classification\train\Loose Silky-bent\006eac3d9.png	6
+plant-seedlings-classification\train\Loose Silky-bent\065757bb0.png	6
+plant-seedlings-classification\train\Loose Silky-bent\0a7723f3b.png	6
+plant-seedlings-classification\train\Loose Silky-bent\0f47f8a00.png	6
+plant-seedlings-classification\train\Loose Silky-bent\14bea63ea.png	6
+plant-seedlings-classification\train\Loose Silky-bent\17d3e7e2c.png	6
+plant-seedlings-classification\train\Loose Silky-bent\1db16c185.png	6
+plant-seedlings-classification\train\Loose Silky-bent\20df07699.png	6
+plant-seedlings-classification\train\Loose Silky-bent\2399027ab.png	6
+plant-seedlings-classification\train\Loose Silky-bent\2773b77ab.png	6
+plant-seedlings-classification\train\Loose Silky-bent\2b85ff393.png	6
+plant-seedlings-classification\train\Loose Silky-bent\330630db5.png	6
+plant-seedlings-classification\train\Loose Silky-bent\37b0e4e91.png	6
+plant-seedlings-classification\train\Loose Silky-bent\3cc7097d1.png	6
+plant-seedlings-classification\train\Loose Silky-bent\3fb49152c.png	6
+plant-seedlings-classification\train\Loose Silky-bent\433e4a3ff.png	6
+plant-seedlings-classification\train\Loose Silky-bent\46ae3ab32.png	6
+plant-seedlings-classification\train\Loose Silky-bent\49febdc76.png	6
+plant-seedlings-classification\train\Loose Silky-bent\4c28a9000.png	6
+plant-seedlings-classification\train\Loose Silky-bent\4fb56230e.png	6
+plant-seedlings-classification\train\Loose Silky-bent\53366d2eb.png	6
+plant-seedlings-classification\train\Loose Silky-bent\57df08978.png	6
+plant-seedlings-classification\train\Loose Silky-bent\5a9e89ee1.png	6
+plant-seedlings-classification\train\Loose Silky-bent\5cb45767e.png	6
+plant-seedlings-classification\train\Loose Silky-bent\5fa5b108a.png	6
+plant-seedlings-classification\train\Loose Silky-bent\623b479d5.png	6
+plant-seedlings-classification\train\Loose Silky-bent\658956a0b.png	6
+plant-seedlings-classification\train\Loose Silky-bent\69a3ef92d.png	6
+plant-seedlings-classification\train\Loose Silky-bent\6ca0979d0.png	6
+plant-seedlings-classification\train\Loose Silky-bent\72a81627f.png	6
+plant-seedlings-classification\train\Loose Silky-bent\75902535c.png	6
+plant-seedlings-classification\train\Loose Silky-bent\7890b9f6a.png	6
+plant-seedlings-classification\train\Loose Silky-bent\7c1dbc5e1.png	6
+plant-seedlings-classification\train\Loose Silky-bent\811e2b508.png	6
+plant-seedlings-classification\train\Loose Silky-bent\86761b812.png	6
+plant-seedlings-classification\train\Loose Silky-bent\8844e8224.png	6
+plant-seedlings-classification\train\Loose Silky-bent\8c796e67b.png	6
+plant-seedlings-classification\train\Loose Silky-bent\8fb04526c.png	6
+plant-seedlings-classification\train\Loose Silky-bent\93f8327c5.png	6
+plant-seedlings-classification\train\Loose Silky-bent\970834d96.png	6
+plant-seedlings-classification\train\Loose Silky-bent\9aac949ec.png	6
+plant-seedlings-classification\train\Loose Silky-bent\9e2523c37.png	6
+plant-seedlings-classification\train\Loose Silky-bent\a49930f40.png	6
+plant-seedlings-classification\train\Loose Silky-bent\a89d6d72f.png	6
+plant-seedlings-classification\train\Loose Silky-bent\ac8027304.png	6
+plant-seedlings-classification\train\Loose Silky-bent\b0aee48c3.png	6
+plant-seedlings-classification\train\Loose Silky-bent\b3b03d5b6.png	6
+plant-seedlings-classification\train\Loose Silky-bent\b6c2e77db.png	6
+plant-seedlings-classification\train\Loose Silky-bent\bb63894a1.png	6
+plant-seedlings-classification\train\Loose Silky-bent\c05473022.png	6
+plant-seedlings-classification\train\Loose Silky-bent\c334c6791.png	6
+plant-seedlings-classification\train\Loose Silky-bent\c629a95e2.png	6
+plant-seedlings-classification\train\Loose Silky-bent\cc4f96146.png	6
+plant-seedlings-classification\train\Loose Silky-bent\d160d5d69.png	6
+plant-seedlings-classification\train\Loose Silky-bent\d36c7675c.png	6
+plant-seedlings-classification\train\Loose Silky-bent\d64d0d197.png	6
+plant-seedlings-classification\train\Loose Silky-bent\d94aa2cfc.png	6
+plant-seedlings-classification\train\Loose Silky-bent\ddf6295e6.png	6
+plant-seedlings-classification\train\Loose Silky-bent\e1063a052.png	6
+plant-seedlings-classification\train\Loose Silky-bent\e60e41d92.png	6
+plant-seedlings-classification\train\Loose Silky-bent\e9ef76a8d.png	6
+plant-seedlings-classification\train\Loose Silky-bent\eeddd27da.png	6
+plant-seedlings-classification\train\Loose Silky-bent\f40d45ecd.png	6
+plant-seedlings-classification\train\Loose Silky-bent\f770f10e4.png	6
+plant-seedlings-classification\train\Loose Silky-bent\fced10d82.png	6
+plant-seedlings-classification\train\Loose Silky-bent\ffbc907bc.png	6
+plant-seedlings-classification\train\Maize\051ea51d0.png	7
+plant-seedlings-classification\train\Maize\12025fcc1.png	7
+plant-seedlings-classification\train\Maize\1d8e6686f.png	7
+plant-seedlings-classification\train\Maize\280c7b4d2.png	7
+plant-seedlings-classification\train\Maize\3213aec10.png	7
+plant-seedlings-classification\train\Maize\3cb4f2c65.png	7
+plant-seedlings-classification\train\Maize\4b825327e.png	7
+plant-seedlings-classification\train\Maize\5453bff0b.png	7
+plant-seedlings-classification\train\Maize\5d641d627.png	7
+plant-seedlings-classification\train\Maize\6495c3f49.png	7
+plant-seedlings-classification\train\Maize\6d54412c3.png	7
+plant-seedlings-classification\train\Maize\80fa83273.png	7
+plant-seedlings-classification\train\Maize\8bfe6860d.png	7
+plant-seedlings-classification\train\Maize\91a9d5b9d.png	7
+plant-seedlings-classification\train\Maize\9fc63a912.png	7
+plant-seedlings-classification\train\Maize\a76555ad2.png	7
+plant-seedlings-classification\train\Maize\b9ffd31a7.png	7
+plant-seedlings-classification\train\Maize\c9b1820d0.png	7
+plant-seedlings-classification\train\Maize\d99129a77.png	7
+plant-seedlings-classification\train\Maize\edd80f8a8.png	7
+plant-seedlings-classification\train\Maize\f60369038.png	7
+plant-seedlings-classification\train\Maize\fdde1498f.png	7
+plant-seedlings-classification\train\Scentless Mayweed\03906fdd7.png	8
+plant-seedlings-classification\train\Scentless Mayweed\06efbd2bf.png	8
+plant-seedlings-classification\train\Scentless Mayweed\0bccfe309.png	8
+plant-seedlings-classification\train\Scentless Mayweed\0eaa11631.png	8
+plant-seedlings-classification\train\Scentless Mayweed\1300c3cd9.png	8
+plant-seedlings-classification\train\Scentless Mayweed\18387e60f.png	8
+plant-seedlings-classification\train\Scentless Mayweed\1c5665dde.png	8
+plant-seedlings-classification\train\Scentless Mayweed\202651138.png	8
+plant-seedlings-classification\train\Scentless Mayweed\278256e68.png	8
+plant-seedlings-classification\train\Scentless Mayweed\2bb431697.png	8
+plant-seedlings-classification\train\Scentless Mayweed\2e4ae28f4.png	8
+plant-seedlings-classification\train\Scentless Mayweed\319667b0f.png	8
+plant-seedlings-classification\train\Scentless Mayweed\3655d2892.png	8
+plant-seedlings-classification\train\Scentless Mayweed\3ab04bdf0.png	8
+plant-seedlings-classification\train\Scentless Mayweed\3fe4205e0.png	8
+plant-seedlings-classification\train\Scentless Mayweed\4408bae35.png	8
+plant-seedlings-classification\train\Scentless Mayweed\49a407787.png	8
+plant-seedlings-classification\train\Scentless Mayweed\51e71ddde.png	8
+plant-seedlings-classification\train\Scentless Mayweed\576951fce.png	8
+plant-seedlings-classification\train\Scentless Mayweed\5c0a9c9c2.png	8
+plant-seedlings-classification\train\Scentless Mayweed\618922851.png	8
+plant-seedlings-classification\train\Scentless Mayweed\64176476e.png	8
+plant-seedlings-classification\train\Scentless Mayweed\689c2b218.png	8
+plant-seedlings-classification\train\Scentless Mayweed\6ae097017.png	8
+plant-seedlings-classification\train\Scentless Mayweed\6f9829b56.png	8
+plant-seedlings-classification\train\Scentless Mayweed\75632b096.png	8
+plant-seedlings-classification\train\Scentless Mayweed\7917df3ec.png	8
+plant-seedlings-classification\train\Scentless Mayweed\7dcb6bd4e.png	8
+plant-seedlings-classification\train\Scentless Mayweed\84e4410c2.png	8
+plant-seedlings-classification\train\Scentless Mayweed\89960b2fb.png	8
+plant-seedlings-classification\train\Scentless Mayweed\8d65bde6a.png	8
+plant-seedlings-classification\train\Scentless Mayweed\911a91de2.png	8
+plant-seedlings-classification\train\Scentless Mayweed\97ea07cab.png	8
+plant-seedlings-classification\train\Scentless Mayweed\9b5bc7b68.png	8
+plant-seedlings-classification\train\Scentless Mayweed\a035386ae.png	8
+plant-seedlings-classification\train\Scentless Mayweed\a5545b963.png	8
+plant-seedlings-classification\train\Scentless Mayweed\a75b742cd.png	8
+plant-seedlings-classification\train\Scentless Mayweed\ad6b8c74c.png	8
+plant-seedlings-classification\train\Scentless Mayweed\b349deff8.png	8
+plant-seedlings-classification\train\Scentless Mayweed\b75a19e14.png	8
+plant-seedlings-classification\train\Scentless Mayweed\ba1bc108d.png	8
+plant-seedlings-classification\train\Scentless Mayweed\c0810829c.png	8
+plant-seedlings-classification\train\Scentless Mayweed\c895464a5.png	8
+plant-seedlings-classification\train\Scentless Mayweed\d318c0f8d.png	8
+plant-seedlings-classification\train\Scentless Mayweed\d9a052c2a.png	8
+plant-seedlings-classification\train\Scentless Mayweed\ddb46795d.png	8
+plant-seedlings-classification\train\Scentless Mayweed\e3b88c3c0.png	8
+plant-seedlings-classification\train\Scentless Mayweed\ec6e6cfdb.png	8
+plant-seedlings-classification\train\Scentless Mayweed\f0fcd1a29.png	8
+plant-seedlings-classification\train\Scentless Mayweed\f7bbaeed3.png	8
+plant-seedlings-classification\train\Scentless Mayweed\fafcf1ece.png	8
+plant-seedlings-classification\train\Shepherds Purse\00dd0d16a.png	9
+plant-seedlings-classification\train\Shepherds Purse\0ca928305.png	9
+plant-seedlings-classification\train\Shepherds Purse\18bec843e.png	9
+plant-seedlings-classification\train\Shepherds Purse\270bc051c.png	9
+plant-seedlings-classification\train\Shepherds Purse\354c39125.png	9
+plant-seedlings-classification\train\Shepherds Purse\42556bc41.png	9
+plant-seedlings-classification\train\Shepherds Purse\500bd1f17.png	9
+plant-seedlings-classification\train\Shepherds Purse\589fb760c.png	9
+plant-seedlings-classification\train\Shepherds Purse\63555c98b.png	9
+plant-seedlings-classification\train\Shepherds Purse\6d92a3538.png	9
+plant-seedlings-classification\train\Shepherds Purse\74be44aef.png	9
+plant-seedlings-classification\train\Shepherds Purse\810110db6.png	9
+plant-seedlings-classification\train\Shepherds Purse\8bfd7bba7.png	9
+plant-seedlings-classification\train\Shepherds Purse\9451dd4d2.png	9
+plant-seedlings-classification\train\Shepherds Purse\9db0aa841.png	9
+plant-seedlings-classification\train\Shepherds Purse\ab3a8d4d6.png	9
+plant-seedlings-classification\train\Shepherds Purse\b886d79e6.png	9
+plant-seedlings-classification\train\Shepherds Purse\bfedca16c.png	9
+plant-seedlings-classification\train\Shepherds Purse\cf5ec9251.png	9
+plant-seedlings-classification\train\Shepherds Purse\dca1ac479.png	9
+plant-seedlings-classification\train\Shepherds Purse\e41f1b997.png	9
+plant-seedlings-classification\train\Shepherds Purse\f00311fd8.png	9
+plant-seedlings-classification\train\Shepherds Purse\f927e469b.png	9
+plant-seedlings-classification\train\Small-flowered Cranesbill\003402ea0.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\055922489.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\0a2ff1911.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\108976349.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\16ecc632f.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\1b71148aa.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\21f880735.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\28277f807.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\2b03e0abc.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\2f83f3ebd.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\33fa4d48a.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\39070241e.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\3ce10885f.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\43ffe7711.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\46c4aeda2.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\4a786b0d4.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\4f0970770.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\55c8528fe.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\5dbc8a7d9.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\63e8b0fad.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\66a4be0df.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\6c03f3f02.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\6f29a7ddb.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\75107b8b4.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\78757ce29.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\7d89d7a87.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\840ca8a36.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\8674eacd1.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\88e24e307.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\8f463eb5c.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\922f5f1d1.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\984f52a86.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\9f4b3c440.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\a1ab74926.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\a6c5ada78.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\ae69bd33e.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\b1878d0bc.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\b7a85bf77.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\bd1e9e013.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\c3eb8fe23.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\ca507e99a.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\cd4bcc457.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\d3e90a2e9.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\d9f79c9ce.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\e02e72548.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\e5c038840.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\eb8f098fa.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\f1196e55f.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\f60a53bf4.png	10
+plant-seedlings-classification\train\Small-flowered Cranesbill\fb894c60f.png	10
+plant-seedlings-classification\train\Sugar beet\019e2ca3b.png	11
+plant-seedlings-classification\train\Sugar beet\0ad9c629b.png	11
+plant-seedlings-classification\train\Sugar beet\100622e89.png	11
+plant-seedlings-classification\train\Sugar beet\13726d79d.png	11
+plant-seedlings-classification\train\Sugar beet\1d314afce.png	11
+plant-seedlings-classification\train\Sugar beet\22d2590d3.png	11
+plant-seedlings-classification\train\Sugar beet\29f0864b1.png	11
+plant-seedlings-classification\train\Sugar beet\3041d1470.png	11
+plant-seedlings-classification\train\Sugar beet\35bccf6c9.png	11
+plant-seedlings-classification\train\Sugar beet\3fde34b6c.png	11
+plant-seedlings-classification\train\Sugar beet\4c443aaf8.png	11
+plant-seedlings-classification\train\Sugar beet\4f63858d7.png	11
+plant-seedlings-classification\train\Sugar beet\56a7b34cf.png	11
+plant-seedlings-classification\train\Sugar beet\5df190ffb.png	11
+plant-seedlings-classification\train\Sugar beet\64e9d6654.png	11
+plant-seedlings-classification\train\Sugar beet\6bb2545d9.png	11
+plant-seedlings-classification\train\Sugar beet\700889031.png	11
+plant-seedlings-classification\train\Sugar beet\759e4b4eb.png	11
+plant-seedlings-classification\train\Sugar beet\7d72cc9ea.png	11
+plant-seedlings-classification\train\Sugar beet\84d42e202.png	11
+plant-seedlings-classification\train\Sugar beet\87f4dcfe7.png	11
+plant-seedlings-classification\train\Sugar beet\8c1f10989.png	11
+plant-seedlings-classification\train\Sugar beet\915689d7d.png	11
+plant-seedlings-classification\train\Sugar beet\96dfb46de.png	11
+plant-seedlings-classification\train\Sugar beet\9d13632b9.png	11
+plant-seedlings-classification\train\Sugar beet\a9b7af892.png	11
+plant-seedlings-classification\train\Sugar beet\b0264558c.png	11
+plant-seedlings-classification\train\Sugar beet\b92458cf6.png	11
+plant-seedlings-classification\train\Sugar beet\c06e70a77.png	11
+plant-seedlings-classification\train\Sugar beet\c6b426814.png	11
+plant-seedlings-classification\train\Sugar beet\d1da687e9.png	11
+plant-seedlings-classification\train\Sugar beet\d558ea002.png	11
+plant-seedlings-classification\train\Sugar beet\da2912b2f.png	11
+plant-seedlings-classification\train\Sugar beet\e4a149c23.png	11
+plant-seedlings-classification\train\Sugar beet\e8870a1b1.png	11
+plant-seedlings-classification\train\Sugar beet\eb2b13b27.png	11
+plant-seedlings-classification\train\Sugar beet\f2eeeb0a2.png	11
+plant-seedlings-classification\train\Sugar beet\f8bf223f3.png	11
+plant-seedlings-classification\train\Sugar beet\ffa401155.png	11
